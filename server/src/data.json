@@ -23,6 +23,118 @@
       "name": "Ahorro",
       "balance": 8500,
       "lastTransaction": "2019-11-15T08:29:04"
+    },
+    {
+      "iban": "GI85 MFOH 3H15 2IK1 030J Z87",
+      "name": "",
+      "type": "",
+      "balance": 0,
+      "lastTransaction": "2024-03-12T10:52:32.453Z",
+      "id": "m5CRHjH"
+    },
+    {
+      "iban": "LI40 0974 4I03 X067 3619 H",
+      "name": "",
+      "type": "",
+      "balance": 0,
+      "lastTransaction": "2024-03-12T10:52:33.675Z",
+      "id": "uJmpJWL"
+    },
+    {
+      "iban": "SK95 7433 0018 3007 0530 0215",
+      "name": "",
+      "type": "",
+      "balance": 0,
+      "lastTransaction": "2024-03-12T10:52:43.592Z",
+      "id": "NGwKYWs"
+    },
+    {
+      "iban": "DK38 3203 1040 3041 72",
+      "name": "",
+      "type": "",
+      "balance": 0,
+      "lastTransaction": "2024-03-12T10:53:02.901Z",
+      "id": "Mwty5Tz"
+    },
+    {
+      "iban": "ME36 8680 0909 5440 5572 53",
+      "name": "",
+      "type": "Cuenta de Ahorro",
+      "balance": 0,
+      "lastTransaction": "2024-03-12T10:53:04.966Z",
+      "id": "YKJ4BTj"
+    },
+    {
+      "iban": "ES14 0037 3004 2681 8549 7036",
+      "name": "",
+      "type": "",
+      "balance": 0,
+      "lastTransaction": "2024-03-12T10:53:06.754Z",
+      "id": "kUjZGuF"
+    },
+    {
+      "iban": "SI23 0444 6664 2208 008",
+      "name": "",
+      "type": "Cuenta Corriente",
+      "balance": 0,
+      "lastTransaction": "2024-03-12T10:53:09.222Z",
+      "id": "ZsBfluW"
+    },
+    {
+      "iban": "LB32 4023 4030 7114 6NN7 2230 33D7",
+      "name": "José Miguel",
+      "type": "",
+      "balance": 0,
+      "lastTransaction": "2024-03-12T10:53:13.068Z",
+      "id": "EQDcC-P"
+    },
+    {
+      "iban": "IT60 L856 0039 816U 6075 2673 714",
+      "name": "",
+      "type": "",
+      "balance": 0,
+      "lastTransaction": "2024-03-12T10:57:32.595Z",
+      "id": "0FJSsU7"
+    },
+    {
+      "iban": "PT33 3001 3003 6304 0920 0600 2",
+      "name": "",
+      "type": "Cuenta Corriente",
+      "balance": 0,
+      "lastTransaction": "2024-03-12T10:57:34.178Z",
+      "id": "U0unEzp"
+    },
+    {
+      "iban": "LU37 2104 6669 AC01 72Y9",
+      "name": "",
+      "type": "",
+      "balance": 0,
+      "lastTransaction": "2024-03-12T10:57:36.205Z",
+      "id": "v7oJUca"
+    },
+    {
+      "iban": "SK21 5900 2900 1600 5500 3009",
+      "name": "Benito ",
+      "type": "Cuenta Corriente",
+      "balance": 0,
+      "lastTransaction": "2024-03-12T12:19:32.828Z",
+      "id": "gVFKx5q"
+    },
+    {
+      "iban": "LI07 4307 82M8 1986 3WD0 6",
+      "name": "Benito ",
+      "type": "Cuenta Corriente",
+      "balance": 0,
+      "lastTransaction": "2024-03-12T12:19:36.491Z",
+      "id": "Whhv7L6"
+    },
+    {
+      "iban": "AL96 0466 3070 7926 9976 1992 L4C5",
+      "name": "Ahorro nómina",
+      "type": "Cuenta de Ahorro",
+      "balance": 0,
+      "lastTransaction": "2024-03-12T12:37:08.857Z",
+      "id": "qDaPbwo"
     }
   ],
   "movements": [
@@ -108,5 +220,28 @@
       "accountId": "3"
     }
   ],
-  "transfer": []
+  "transfer": [
+    {
+      "accountId": "1",
+      "iban": "DE91100000000123456789",
+      "name": "José Miguel",
+      "amount": "23",
+      "concept": "COMPRA DEL MES",
+      "notes": "NINGUNA",
+      "transferDate": "Mon Mar 11 2024",
+      "realTransferDate": "2024-03-20",
+      "id": 1
+    },
+    {
+      "accountId": "1",
+      "iban": "DE91100000000123456789",
+      "name": "José Miguel",
+      "amount": "23",
+      "concept": "COMPRA DEL MES",
+      "notes": "NINGUNA",
+      "transferDate": "Mon Mar 11 2024",
+      "realTransferDate": "2024-03-20",
+      "id": 2
+    }
+  ]
 }
